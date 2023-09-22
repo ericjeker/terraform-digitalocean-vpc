@@ -9,7 +9,7 @@ Create a DigitalOcean VPC.
 ```terraform
 module "vpc" {
   source  = "app.terraform.io/wOwww/vpc/digitalocean"
-  version = "0.0.1"
+  version = "0.0.2"
 }
 ```
 
